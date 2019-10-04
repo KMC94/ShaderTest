@@ -14,6 +14,8 @@
         CGPROGRAM
         #pragma surface surf Standard
 
+
+
         sampler2D _MainTex;
 		sampler2D _BumpMap;
 		float _Metallic;
